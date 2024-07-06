@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArturHeylmann
-- 👀 I’m interested in new technologies and to learn a bit every day.
-- 🌱 I’m currently taking CS50 lessons and learning C and Java.
+- 👀 I’m interested in new technologies and to learn a bit every day
+- 🌱 I’m currently learning Python and Data Engineering
 - 📫 How to reach me...
 
 <a href="https://www.linkedin.com/in/artur-henrique-heylmann-71963a146/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
